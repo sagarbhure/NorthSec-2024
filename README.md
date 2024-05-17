@@ -1,4 +1,5 @@
 # NorthSec-2024 Workshop
+### Machine Learning For Security Professionals: Building And Hacking ML Systems
 Welcome to the NorthSec-2024 Workshop! This repository contains all the necessary information and resources for the lab exercises.
 
 ## Steps to Install VM for Lab Exercises
